@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-contador-de-clicks/static/css/main.b3df5d4d.css",
+    "main.js": "/React-contador-de-clicks/static/js/main.74c7d645.js",
+    "index.html": "/React-contador-de-clicks/index.html",
+    "main.b3df5d4d.css.map": "/React-contador-de-clicks/static/css/main.b3df5d4d.css.map",
+    "main.74c7d645.js.map": "/React-contador-de-clicks/static/js/main.74c7d645.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3df5d4d.css",
+    "static/js/main.74c7d645.js"
+  ]
+}
